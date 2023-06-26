@@ -1,0 +1,27 @@
+[
+    {
+        "BoughtFrom": "Namn på tomatförsäljare",
+        "SortName": "Namn på tomat",
+        "PurchasedYear": "2023",
+        "Origin": "Ursprung för tomaten",
+        "Cultivated": true,
+        "Tags": [
+            "Luden",
+            "Tjuvas"
+        ],
+        "Sizes": [
+            "Högväxande"
+        ],
+        "Colors": [
+            "Röd"
+        ],
+        "GrowYears": [
+            2023
+        ],
+        "Images": [
+            "images/tomatnamn.jpg"
+        ],
+        "ID": "4938064a-176c-42ed-8362-0400546b544b",
+        "Information": "En beskrivning eller annan information du vill ha för tomaten."
+    }
+]
